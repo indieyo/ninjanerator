@@ -1,0 +1,11 @@
+{
+  "name": "Ninjanerator Bot",
+  "version": "1.0.0",
+  "description": "Ninja Name Generator by Kevinttan",
+  "main": "bot.js",
+  "author": "Kevinttan",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^2.4.0"
+  }
+}
